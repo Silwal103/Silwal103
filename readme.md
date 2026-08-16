@@ -1,4 +1,5 @@
 <div align="center">
+<img src="https://github.com/YOUR-USERNAME.png" width="150" style="border-radius: 50%;" alt="Arjun Silwal"/>
 
 # Hi, I'm Arjun Singh Silwal 👋
 
@@ -6,6 +7,7 @@
 
 📍 Mumbai, India &nbsp;|&nbsp; 🎓 B.E. Information Technology, VESIT (2026) &nbsp;|&nbsp; CGPA 8.61
 
+[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-brightgreen?style=flat&logo=briefcase&logoColor=white)](https://www.linkedin.com/in/arjun-silwal-a1a3a5309/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjun-silwal-a1a3a5309/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:singharjun222005@gmail.com)
 

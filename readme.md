@@ -1,5 +1,4 @@
 <div align="center">
-<img src="https://github.com/Silwal103.png" width="150" style="border-radius: 50%;" alt="Arjun Silwal"/>
 
 # Hi, I'm Arjun Singh Silwal 👋
 

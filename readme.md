@@ -16,8 +16,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-C59A48?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjun-silwal-a1a3a5309/)
 [![Email](https://img.shields.io/badge/Email-C59A48?style=flat&logo=gmail&logoColor=white)](mailto:singharjun222005@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Silwal103&color=C59A48&style=flat)
-[![Followers](https://img.shields.io/github/followers/Silwal103?style=flat&color=C59A48)](https://github.com/Silwal103)
+
 
 </div>
 

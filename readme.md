@@ -1,8 +1,6 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=14B8A6&height=180&section=header&text=Arjun%20Singh%20Silwal&fontColor=ffffff&fontSize=42&fontAlignY=35&animation=twinkling" width="100%"/>
 
-<img src="https://github.com/YOUR-USERNAME.png" width="130" style="border-radius: 50%;" alt="Arjun Silwal"/>
-
 # Hi, I'm Arjun Singh Silwal 👋
 
 <a href="https://git.io/typing-svg">
